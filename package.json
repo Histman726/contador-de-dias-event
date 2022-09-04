@@ -1,0 +1,19 @@
+{
+  "name": "contador-de-dias",
+  "version": "1.0.0",
+  "description": "Contador de dias para un evento",
+  "main": "index.html",
+  "author": "Histman7",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn parcel index.html",
+    "build": "yarn parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10"
+  }
+}
